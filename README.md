@@ -487,6 +487,43 @@ Response:
 - Thunder Client (VS Code)
 
 
+out put  
+
+
+
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/e27278bd-7916-418f-8888-2165873cd049" />   
+
+
+
+
+
+
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/49d675eb-aa27-4f7e-bab0-319a854dd3d4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
