@@ -379,7 +379,113 @@ if __name__ == "__main__":
 
     create_table() 
     
-    app.run(debug=True)
+    app.run(debug=True)   
+
+
+    README.md 
+
+
+    # Flask CRUD REST API
+
+## Base URL 
+
+http://127.0.0.1:5000
+
+---
+
+## 1. Create Item 
+
+POST /items
+
+Request Body (JSON):
+{
+  "name": "Laptop", 
+  
+  "description": "Dell Inspiron"
+}
+
+Response: 
+
+201 Created
+
+---
+
+## 2. Get All Items 
+
+GET /items
+
+Response:
+[
+  { 
+  
+    "id": 1, 
+    
+    "name": "Laptop", 
+    
+    "description": "Dell Inspiron"
+  } 
+  
+]
+
+---
+
+## 3. Get Single Item 
+
+GET /items/1
+
+Response:
+{ 
+
+  "id": 1, 
+  
+  "name": "Laptop", 
+  
+  "description": "Dell Inspiron"
+}
+
+---
+
+## 4. Update Item 
+
+PUT /items/1
+
+Request Body:
+{ 
+
+  "name": "Laptop Updated", 
+  
+  "description": "HP Pavilion"
+}
+
+Response: 
+
+200 OK
+
+---
+
+## 5. Delete Item 
+
+DELETE /items/1
+
+Response: 
+
+200 OK
+
+---
+
+## Error Handling 
+
+- 400 → Bad Request
+- 
+- 404 → Item Not Found
+
+---
+
+## Testing Tools
+- Postman
+- Curl
+- Thunder Client (VS Code)
+
 
 
 
