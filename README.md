@@ -508,7 +508,7 @@ out put
 
 
 
-<img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/49d675eb-aa27-4f7e-bab0-319a854dd3d4" />
+<img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/49d675eb-aa27-4f7e-bab0-319a854dd3d4" /> 
 
 
 
@@ -516,6 +516,9 @@ out put
 
 
 
+video link: https://youtu.be/4AsRa4t8TRI
+
+github link: https://github.com/ruheenatasneem/DECEMBER-1-TO-31-INTERNS--OwlAI---TASK-4
 
 
 
